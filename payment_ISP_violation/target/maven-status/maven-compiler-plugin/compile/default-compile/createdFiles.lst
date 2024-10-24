@@ -1,0 +1,5 @@
+com\mycompany\payment_isp_violation\Payment_ISP_violation.class
+com\mycompany\payment_isp_violation\CreditCardPayment.class
+com\mycompany\payment_isp_violation\PayPalPayment.class
+com\mycompany\payment_isp_violation\PaymentMethod.class
+com\mycompany\payment_isp_violation\BankTransferPayment.class

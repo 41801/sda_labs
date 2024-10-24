@@ -1,0 +1,5 @@
+com\mycompany\paymentsystem\PaymentMethod.class
+com\mycompany\paymentsystem\PayPalPayment.class
+com\mycompany\paymentsystem\PaymentSystem.class
+com\mycompany\paymentsystem\CreditCardPayment.class
+com\mycompany\paymentsystem\BankTransferPayment.class

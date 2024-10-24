@@ -1,0 +1,5 @@
+com\mycompany\factorypattern\Sedan.class
+com\mycompany\factorypattern\FactoryPattern.class
+com\mycompany\factorypattern\SUV.class
+com\mycompany\factorypattern\Car.class
+com\mycompany\factorypattern\CarFactory.class
